@@ -33,7 +33,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone (https://github.com/Mutahar456/APIWEBSITE)
    ```
 
 2. Open the project directory using your favorite code editor.
@@ -53,20 +53,8 @@ To use these features, interact with the application through its user interface.
 
 ## Deployment
 
-This application is deployed on GitHub and can be accessed at [https://yourusername.github.io/your-repo](https://yourusername.github.io/your-repo).
+This application is deployed on GitHub and can be accessed at [https://github.com/Mutahar456/APIWEBSITE](https://mutahar456.github.io/APIWEBSITE/).
 
-## Contributing
 
-Contributions to this project are welcome. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes.
-4. Test your changes thoroughly.
-5. Create a pull request to merge your changes into the main branch.
-
-## License
-
-This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file.
 
 Feel free to customize and extend this README to provide more specific information about your project and its deployment.
